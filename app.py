@@ -70,4 +70,4 @@ if st.button("Recommend Similar Anime"):
         st.write(f"{index}: {anime_name}")
 
 
-st.markdown("[Support Anime Vyuh]()")
+st.markdown("[Support Anime Vyuh](https://ko-fi.com/tarunrjain751)")
