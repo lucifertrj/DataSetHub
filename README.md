@@ -1,9 +1,11 @@
-# [Tarun Jain Kaggle Dataset Hub](https://www.kaggle.com/tarundalal/)
-### All dataset created by [Anime Vyuh: A Fusion Of Coding and Anime](https://animevyuh.org)
+<div align="center">
+<h1><a href="https://www.kaggle.com/tarundalal/">Tarun Jain Kaggle Dataset Hub</a></h1>
+<h3>All dataset created by <a href="https://animevyuh.org">Anime Vyuh: A Fusion Of Coding and Anime</a></h3>
 
-### Join our Community
+<h3>Join our Community</h3>
 <a href="https://discord.com/invite/kxZYxdTKp6">
 <img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
+</div>
 
 ## [Dataset-1: Anime Rating](https://www.kaggle.com/datasets/tarundalal/anime-dataset)
 
@@ -74,9 +76,42 @@ Here is a dataset that contains the list of every Arc with the following columns
 
 ### Related Article- 
 
-- [Web Scraping In Python](https://animevyuh.org/the-big-three-anime/)
+- [Web Scraping In Python](https://animevyuh.org/web-scraping-using-python/)
 
 Credits: [ListFist](https://listfist.com/list-of-one-piece-arcs) is the website from where I scraped the Dataset. 
+
+## [Dataset-4: The Big Three Anime Arcs](https://www.kaggle.com/datasets/tarundalal/one-piece-arcs)
+
+[![animevyuh](https://animevyuh.org/wp-content/uploads/2021/10/bigthree.png)](https://animevyuh.org/blog)
+
+Let’s analyze Big Three Anime
+
+One Piece, Naruto, and Bleach
+
+Big Three, as the name, states the three long-running anime had made a huge impact in Shounen History. What makes these three special? The Big three dominated an entire decade, with amazing characters cast, stunning openings and soundtracks and not to forget the fight scenes.
+
+This dataset provides detailed information on each Arc from The Big Three Anime...
+
+### Column Information:-
+
+- Arc: The name of the Arc
+- TotalChapters - Total number of chapters drawn In Manga Volume
+- TotalPages - Total number of pages used for that particular Arc
+- Manga% - The overall contribution of that particular Arc in the Manga
+- TotalEpisode - Total number of episodes animated
+- TotalMinutes - Total number of minutes that particular Arc was telecasted in Anime
+- Anime% - The overall contribution of that particular Arc in the Anime
+- BigThree- Contains the name of the Anime to which the Arc belongs. 
+
+### Notebook
+
+- **[]()**
+
+### Related Article- 
+
+- [The Big Three Anime and Web Scraping](https://animevyuh.org/the-big-three-anime/)
+
+Credits: [ListFist](https://listfist.com/) is the website from where I scraped the Dataset. 
 
 ### Support and Contribute
 
