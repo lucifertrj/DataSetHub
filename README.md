@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1><a href="https://www.kaggle.com/tarundalal/">Tarun Jain Kaggle Dataset Hub</a></h1>
 <h3>All dataset created by <a href="https://animevyuh.org">Anime Vyuh: A Fusion Of Coding and Anime</a></h3>
 
